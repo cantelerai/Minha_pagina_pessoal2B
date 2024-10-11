@@ -4,6 +4,13 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     }
+  /* título da página */
+    header{
+        background-color: #1d20e9;
+        color:#1648cf;
+        width: 100%;
+        padding: 20px;
+        }
     /* Estilos da barra de navegação */
     .navbar {
     display: flex;
