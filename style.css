@@ -94,13 +94,3 @@ body {
     .social-links img:hover {
     transform: scale(1.1);
     }
-
-    .banner1{
-        display: flex;
-        justify-content: center;
-        }
-        .estudante_titulo{
-        padding: 150px;
-        text-align: center;
-
-        }
