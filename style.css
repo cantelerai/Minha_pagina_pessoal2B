@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fff;
+    background-color: #2719e9;
     padding: 10px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -152,13 +152,13 @@ body {
     display: flex;
     justify-content: center;
     }
-    .logo_rodape{
-        height: 80px;
-        padding: 12px 0;
-        
-        }
-        
-        .link{
-        color: #f2c18d;
-        text-decoration: none;
-        }
+     .logo_rodape{
+    height: 80px;
+    padding: 12px 0;
+    
+    }
+    
+    .link{
+    color: #f2c18d;
+    text-decoration: none;
+    }
