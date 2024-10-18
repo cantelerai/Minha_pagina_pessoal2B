@@ -147,3 +147,8 @@ body {
 .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
+
+.banner1{
+    display: flex;
+    justify-content: center;
+    }
