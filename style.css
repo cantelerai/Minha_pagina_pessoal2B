@@ -152,13 +152,25 @@ body {
     display: flex;
     justify-content: center;
     }
-     .logo_rodape{
-    height: 80px;
-    padding: 12px 0;
-    
+    .escola{
+        background-image: linear-gradient(#F2C18D#F2C18D);
+        color: F2C18D;
+        display: flex;
+        justify-content:center;
+        padding: 24px 0;
+        text-align:center;
+        display:block;
+        }
+        .escola-titulo{
+        padding: 50px;
+        text-align: center;
+        }
+        .logo_rodape{
+        height: 80px;
+        padding: 12px 0;
     }
     
     .link{
     color: #f2c18d;
     text-decoration: none;
-    }
+    }    
