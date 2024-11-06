@@ -41,6 +41,26 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
+/* Biblioteca  */
+.Biblioteca {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.Biblioteca li {
+    position: relative;
+}
+
+.Biblioteca {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 10px 15px;
+    transition: background-color 0.3s, color 0.3s;
+}
 /* Cor ao passar o mouse e ao clicar */
 .menu a:hover {
     background-color: lightblue;
